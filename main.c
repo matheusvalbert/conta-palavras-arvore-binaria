@@ -1,15 +1,3 @@
-/*OBSERVAÇÕES
-Integrante 1 - Nome: LEONARDO MARCHIONI MARIOTTO		   RA: 17122383
-Integrante 2 - Nome: LEONARDO PIGATTO BUENO				   RA: 17139692 
-Integrante 3 - Nome: MATHEUS, VALBERT					   RA: 17055641
-Resultados obtidos: Conseguimos realizar o projeto sem muitos problemas.
-Projeto básico: 100 % concluído - Obs: Ok 
-(X) Opcional 1 - Obs: Ok
-(X) Opcional 2 - Obs: Ok 
-(X) Opcional 3 - Obs: le o arquivo, e printa a arvore em pre-ordem, nao realizando nenhuma outra funcao
-( ) Opcional 4 - Obs: nao realizado
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
