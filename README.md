@@ -1,4 +1,4 @@
-# Arvore Binaria contar palaveas
+# Arvore Binaria contar palavras
 
 # Introdução
 ```
